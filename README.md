@@ -10,6 +10,23 @@
 
 <br/><br/>
 
+```markdown
+ 😀 I really like to learn
+ 
+ 🚀 My motto is: learning is continuous and there will always be a next level
+ 
+ 🏆 In search of becoming a backend developer
+ 
+ 🎸 I like to play guitar
+ 
+ 🚲 I also like cycling 
+ 
+ 📫 How to reach me: ellian.aragao@gmail.com
+```
+
+<br/>
+
+
 <div align="center">
 	<h2>Languages</h2>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -38,24 +55,6 @@
 	<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 	<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </div>
-
-<br/>
-
-## About
-
-```markdown
- 😀 I really like to learn
- 
- 🚀 My motto is: learning is continuous and there will always be a next level
- 
- 🏆 In search of becoming a backend developer
- 
- 🎸 I like to play guitar
- 
- 🚲 I also like cycling 
- 
- 📫 How to reach me: ellian.aragao@gmail.com
-```
 
 <br/>
 
