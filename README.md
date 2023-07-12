@@ -1,11 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Ellian Aragão. Nice to meet you!
 
 <a href="https://www.linkedin.com/in/ellian-arag%C3%A3o-dias-22192a159/">
-  <img align="left" alt="Ellian Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ellian Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:ellian.aragao@gmail.com">
-  <img align="left" alt="Mail Ellian Aragão" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="left" alt="Mail Ellian Aragão" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
