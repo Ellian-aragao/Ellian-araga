@@ -91,5 +91,5 @@
 
 ## My Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ellian-aragao&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![github stats](https://github-readme-stats.vercel.app/api?username=ellian-aragao&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&rank_icon=github&bg_color=151515&hide=["stars"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellian-aragao&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515)
