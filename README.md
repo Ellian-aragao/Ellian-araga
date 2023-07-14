@@ -1,3 +1,4 @@
+##<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ellian-aragao.Ellian-aragao" />
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Ellian Aragão Dias. Nice to meet you!
 
 <a href="https://www.linkedin.com/in/ellian-arag%C3%A3o-dias-22192a159/">
